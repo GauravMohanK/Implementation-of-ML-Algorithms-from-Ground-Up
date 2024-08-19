@@ -1,2 +1,2 @@
 # Implementation-of-ML-Algorithms-from-Ground-Up
-In this project I will be implementing no-frills vanilla python implementation of all popular ML algorithms. I will be diving into under-the-hood statistical and mathematical aspect of the algorithms. 
+In this project, I'll implement fundamental Python implementations of popular ML algorithms, exploring their statistical and mathematical foundations
